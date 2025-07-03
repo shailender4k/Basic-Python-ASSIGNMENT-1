@@ -14,5 +14,3 @@ print(f"\nSum: {num1} + {num2} = {sum}")
 print(f"Difference: {num1} - {num2} = {difference}")
 print(f"Product: {num1} * {num2} = {product}")
 print(f"Division: {num1} / {num2} = {division}")
-
-
